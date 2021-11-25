@@ -7,17 +7,17 @@
 	],
 	"motions":{
 		"idle":[
-			{"file":"kawoashi_ver6_0101_m02a_idle.motion3.json"}
+			{"file":"motions/kawoashi_ver6_0101_m02a_idle.motion3.json"}
 		]
         ,
 		"tap_head":[
-			{"file":"kawoashi_ver6_0101_m07b_verygood_loop.motion3.json"}
+			{"file":"motions/kawoashi_ver6_0101_m07b_verygood_loop.motion3.json"}
 		],
 		"tap_body":[
-			{"file":"kawoashi_ver6_0101_m03a_kettei.motion3.json"}
+			{"file":"motions/kawoashi_ver6_0101_m03a_kettei.motion3.json"}
 		],
 		"tap_leg":[
-			{"file":"kawoashi_ver6_0101_m01a_in.motion3.json"}
+			{"file":"motions/kawoashi_ver6_0101_m01a_in.motion3.json"}
 		]
 	},
 	"physics":"kawoashi_ver6_0101.physics3.json",
